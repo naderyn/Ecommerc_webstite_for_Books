@@ -1,0 +1,86 @@
+
+
+.video-background {
+  
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+.video-background video {
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+/* Footer Styles */
+.footer {
+  background-color: #333;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+}
+
+.h  /* Global Styles */
+p {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: aqua;
+}
+/* Navigation Styles */
+.navbar {
+  background-color: #333;
+}
+.navbar .navbar-brand {
+  color: #fff;
+}
+.navbar .navbar-nav .nav-link {
+  color: #fff;
+}
+/* Section Styles */
+.bg-image {
+  background-image: url('images/e.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.mask {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.container {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: transparent;
+  border: none;
+}
+.card-header {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  margin: 20px 0;
+}
+.card h4 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+.card p {
+  font-size: 18px;
+  color: #fff;
+}
+/* Footer Styles */
+.footer {
+  background-color: #333;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+}

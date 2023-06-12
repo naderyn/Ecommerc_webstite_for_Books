@@ -1,0 +1,24 @@
+.card.hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card.hover .card-title {
+    color: #fff;
+  }
+  
+  .card.hover .card-text {
+    color: #eee;
+  }
+  
+  .card.hover .card-header {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .card.hover .card-body {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .team-heading {
+    color: rgb(255, 145, 2); 
+  

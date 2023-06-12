@@ -1,0 +1,31 @@
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(253, 219, 26, 0.5), rgba(3, 79, 117, 0.5))
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #8d7113;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+    }
+    p {
+        color: rgb(1, 8, 31);
+        size: 20cap;
+    }
+
+    h2{
+        color: #ffd000;
+    }
+    h4{
+        color: #c1ccc5;
+    }
